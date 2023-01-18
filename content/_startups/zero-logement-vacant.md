@@ -25,6 +25,7 @@ phases:
 ---
 ## Le problème
 
+
 1,1 millions de logements sont vacants depuis au moins deux ans dans le parc privé et ce nombre risque d’augmenter avec l’interdiction progressif de la location des passoires thermiques (près de 2 millions de passoires thermiques potentiellement interdites à la location au 1er janvier 2028). 
 
 Cette vacance structurelle pénalise les personnes qui cherchent à se loger, dégrade le bâti et contribue à la désaffection des centres-villes. La remise sur le marché de ces logements permettrait :
